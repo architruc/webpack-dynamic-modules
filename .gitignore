@@ -1,3 +1,7 @@
+.idea/*
+!.idea/*.iml
+!.idea/modules.xml
+
 # Build results
 dist/
 typings/**/*
